@@ -37,11 +37,11 @@ Aby uruchomić aplikację, należy zainstalować:
 
 1.  Pobierz kod źródłowy (zakładając, że nazwa repozytorium pozostaje taka sama):
     ```sh
-    git clone https://github.com/przxmus/projekt-ddawidek2.git
+    git clone https://github.com/przxmus/projekt-ddawidek.git
     ```
 2.  Przejdź do katalogu projektu:
     ```sh
-    cd projekt-ddawidek2
+    cd projekt-ddawidek
     ```
 
 ### 3.2 Konfiguracja bazy danych
@@ -56,7 +56,7 @@ Aby uruchomić aplikację:
 1.  Otwórz terminal lub cmd.
 2.  Przejdź do folderu, w którym znajduje się plik `main.py`.
     ```sh
-    cd projekt-ddawidek2
+    cd projekt-ddawidek
     ```
 3.  Uruchom skrypt:
     ```sh
@@ -69,7 +69,7 @@ Aby uruchomić aplikację:
 Aplikacja składa się z jednego głównego pliku oraz plików generowanych podczas jej działania:
 
 ```
-/projekt-ddawidek2/
+/projekt-ddawidek/
 │
 │-- main.py                    # Głowny skrypt
 │
